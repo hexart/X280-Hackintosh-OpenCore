@@ -14,9 +14,8 @@ sysInfo | neoFetch
 - Display: 12.5" FHD (1920x1080) IPS
 - Storage: 256GB SSD M.2 WD
 - WLAN + Bluetooth: Intel
-
-![cpu](/images/cpu.png)
 </details>
+
 <details>
   <summary><strong>Kexts version</strong></summary>
 
