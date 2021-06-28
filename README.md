@@ -8,7 +8,7 @@ sysInfo | neoFetch
   <summary><strong>My Hardware</strong></summary>
 
 - Model: ThinkPad X280
-- Processor: Intel Core i3 (2C 2.2GHz, 4MB)
+- Processor: Intel Core i3-8130U (2C 2T 2.2GHz, 4MB)
 - Graphics: Integrated Intel UHD Graphics 620
 - Memory: 4GB DIMM 2400 MHz DDR4
 - Display: 12.5" FHD (1920x1080) IPS
