@@ -3,3 +3,5 @@ EFI/.DS_Store
 EFI/BOOT/.contentFlavour
 EFI/OC/.contentFlavour
 EFI/OC/.DS_Store
+EFI/OC/Drivers/.DS_Store
+.DS_Store

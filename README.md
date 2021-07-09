@@ -20,7 +20,7 @@ sysInfo | neoFetch
   <summary><strong>Kexts version</strong></summary>
 
 - **AppleALC**: 1.6.2
-- **IntelMausiEthernet**: 1.0.6
+- **IntelMausiEthernet**: 1.0.7
 - **Lilu**: 1.5.4
 - **VirtualSMC**: 1.2.5
 - **WhateverGreen**: 1.5.1
@@ -40,6 +40,6 @@ sysInfo | neoFetch
 <details>
   <summary><strong>Credits</strong></summary>
 
-  **OpenCore Bootloader** 0.7.0 from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
+  **OpenCore Bootloader** 0.7.1 from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
 
 </details>
